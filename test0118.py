@@ -78,4 +78,3 @@ df3 = pd.DataFrame(data={"source":result_text1,"target":result_text2,"score":res
 # df['result_text2'] = result_text2
 # df['result_score'] = result_scores
 df3.to_excel(".xlsx")
-# df3.to_excel("./0907Match_small.xlsx")
